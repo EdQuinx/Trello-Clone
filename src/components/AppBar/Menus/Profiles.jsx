@@ -32,7 +32,7 @@ function Profies() {
           aria-expanded={open ? 'true' : undefined}
         >
           <Avatar
-            sx={{ width: 32, height: 32 }}
+            sx={{ width: 36, height: 36 }}
             alt='EdQuinx'
             src='https://scontent.fhan2-4.fna.fbcdn.net/v/t1.15752-9/440249154_906197294615162_879318190778301204_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEJLKel6Umr2DZfQouhaCGD4QofdBLp61HhCh90EunrUZngjFThz6o_Axp4z0qLOMzivQUuOW5B7Ch8Dt3o5IaP&_nc_ohc=hPnry17v9ZMQ7kNvgGwN9LN&_nc_ht=scontent.fhan2-4.fna&oh=03_Q7cD1QGGhJPRZ_pUoFhztQmerRrTeRjBEUUKZgpr14BWeGbcQw&oe=665A2A0F'
           />
